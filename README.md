@@ -1,2 +1,2 @@
-wordpress-files
+My Wordpress files
 ===============
